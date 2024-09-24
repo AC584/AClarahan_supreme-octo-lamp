@@ -1,0 +1,2 @@
+shiplist = ["octopus", "candles", "fire"]
+print(shiplist)
